@@ -1,0 +1,22 @@
+{
+  "name": "akemon-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HardPlant/akemon-plugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HardPlant/akemon-plugin/issues"
+  },
+  "homepage": "https://github.com/HardPlant/akemon-plugin#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}

@@ -1,3 +1,11 @@
+# Akemon Source
+Akemon/audio
+Akemon/fonts
+Akemon/icom
+Akemon/img
+Akemon/Game.rpgproject
+Akemon/movies
+
 # Logs
 logs
 *.log
