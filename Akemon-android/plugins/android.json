@@ -9,6 +9,9 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "io.hardplant.akemon"
+    },
+    "cordova-plugin-insomnia": {
+      "PACKAGE_NAME": "io.hardplant.akemon"
     }
   },
   "dependent_plugins": {}
