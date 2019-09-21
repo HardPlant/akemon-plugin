@@ -68,3 +68,5 @@ typings/
 # next.js build output
 .next
 Akemon-android/make_keystore2.sh
+Akemon-android/android.keystore
+Akemon-android/build.json
