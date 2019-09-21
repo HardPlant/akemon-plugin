@@ -70,3 +70,4 @@ typings/
 Akemon-android/make_keystore2.sh
 Akemon-android/android.keystore
 Akemon-android/build.json
+*.apk

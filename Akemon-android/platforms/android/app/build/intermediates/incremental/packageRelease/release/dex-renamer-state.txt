@@ -1,4 +1,4 @@
-#Sat Sep 21 17:36:52 KST 2019
+#Sat Sep 21 17:48:50 KST 2019
 base.0=/home/seongwon/repo/akemon-plugin/Akemon-android/platforms/android/app/build/intermediates/transforms/dex/release/0
 path.0=classes.dex
 renamed.0=classes.dex
