@@ -61,7 +61,7 @@ function DollPartyManagement() {
         _Scene_Menu_createCommandWindow.call(this);
         //this.commandEnemyBook = function() {
         //       Game_Interpreter.prototype.pluginCommand("EnemyBook", "open");
-        };
+        //};
         //this._commandWindow.setHandler('enemybook', this.commandEnemyBook.bind(this));
     }
     /**
