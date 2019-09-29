@@ -6,6 +6,9 @@ Akemon/img
 Akemon/Game.rpgproject
 Akemon/movies
 
+# PokeYellow Source
+Poke/*
+
 # Logs
 logs
 *.log
